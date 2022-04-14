@@ -302,6 +302,19 @@ footer{
     cursor: pointer;
 }
 
+.icons .privacy-policy a{
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    color: white;
+    margin: 2rem 0;
+}
+
+.icons .terms-condition a{
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    color: white;
+    margin: 2rem 0;
+}
 .icons .copyright p{
     font-size: 1.2rem;
     letter-spacing: 1px;
