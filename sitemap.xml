@@ -9,12 +9,27 @@
 
 <url>
   <loc>https://thebangalorepost.com/</loc>
-  <lastmod>2022-04-14T06:28:03+00:00</lastmod>
+  <lastmod>2022-04-14T12:59:08+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://thebangalorepost.com/work.html</loc>
-  <lastmod>2022-04-14T06:28:03+00:00</lastmod>
+  <lastmod>2022-04-14T12:59:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thebangalorepost.com/Contact.html</loc>
+  <lastmod>2022-04-14T12:59:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thebangalorepost.com/privacy-policy.html</loc>
+  <lastmod>2022-04-14T12:59:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thebangalorepost.com/terms-condition.html</loc>
+  <lastmod>2022-04-14T12:59:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
