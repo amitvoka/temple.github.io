@@ -1,5 +1,2 @@
 User-agent: *
 Disallow:
-Allow: /privacy-policy.html
-Crawl-delay: 15
-Sitemap: https://thebangalorepost.com/sitemap.xml
