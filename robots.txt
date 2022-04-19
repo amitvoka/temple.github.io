@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://thebangalorepost.com/sitemap.xml
